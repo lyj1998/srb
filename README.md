@@ -33,7 +33,7 @@
 
 # 三、项目功能演示
 ## 1.后台管理系统!
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9a82232a26144acc8e98050e0eeec26c.png
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9a82232a26144acc8e98050e0eeec26c.png)
 
 ## 2.前台网站系统
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/aeb3a83ff7c34dac8ad5ead6723b1037.png)
