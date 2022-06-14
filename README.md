@@ -18,10 +18,10 @@
 
 
 # 一、课程介绍
-![add image](https://github.com/lyj1998/srb/raw/master/image/1.jpg)
+![](https://img-blog.csdnimg.cn/cd0c9ab6686148a8a26ac3594f11eb67.png)
 
 # 二、项目架构
-![](image/2.png)
+![](https://img-blog.csdnimg.cn/fe02b86639ca4730b7def7549bc7f9e7.png)
 ①：用户通过不同的终端访问应用程序
 ②：终端经由cdn网络或防火墙访问nginx集群
 ③：穿过负载均衡服务器后来到前端服务器集群
@@ -33,7 +33,7 @@
 
 # 三、项目功能演示
 ## 1.后台管理系统!
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9a82232a26144acc8e98050e0eeec26c.png
 
 ## 2.前台网站系统
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/aeb3a83ff7c34dac8ad5ead6723b1037.png)
